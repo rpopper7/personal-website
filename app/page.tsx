@@ -1,7 +1,7 @@
 "use client";
 
 import { TypeAnimation } from "react-type-animation";
-import {FaLinkedin, FaGithub, FaFileAlt, FaArrowRight} from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaFileAlt, FaArrowRight } from "react-icons/fa";
 
 export default function Home() {
     return (
